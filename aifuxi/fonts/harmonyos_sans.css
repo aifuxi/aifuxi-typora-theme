@@ -1,0 +1,64 @@
+@font-face {
+  font-weight: 400;
+  font-family: "HarmonyOS_Sans";
+  font-style: normal;
+  src: url("Poppins/HarmonyOS_Sans_Regular.ttf") format("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: "HarmonyOS_Sans";
+  font-style: normal;
+  src: url("Poppins/HarmonyOS_Sans_Medium.ttf") format("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "HarmonyOS_Sans";
+  font-style: normal;
+  src: url("Poppins/HarmonyOS_Sans_Bold.ttf") format("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 900;
+  font-family: "HarmonyOS_Sans";
+  font-style: normal;
+  src: url("Poppins/HarmonyOS_Sans_Black.ttf") format("ttf");
+  font-display: swap;
+}
+
+/* Italic */
+@font-face {
+  font-weight: 400;
+  font-family: "HarmonyOS_Sans";
+  font-style: italic;
+  src: url("Poppins/HarmonyOS_Sans_Regular_Italic.ttf") format("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: "HarmonyOS_Sans";
+  font-style: italic;
+  src: url("Poppins/HarmonyOS_Sans_Medium_Italic.ttf") format("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "HarmonyOS_Sans";
+  font-style: italic;
+  src: url("Poppins/HarmonyOS_Sans_Bold_Italic.ttf") format("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 900;
+  font-family: "HarmonyOS_Sans";
+  font-style: italic;
+  src: url("Poppins/HarmonyOS_Sans_Black_Italic.ttf") format("ttf");
+  font-display: swap;
+}

@@ -1,0 +1,96 @@
+@font-face {
+  font-weight: 400;
+  font-family: "Poppins";
+  font-style: normal;
+  src: url("Poppins/Poppins-Regular.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: "Poppins";
+  font-style: normal;
+  src: url("Poppins/Poppins-Medium.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 600;
+  font-family: "Poppins";
+  font-style: normal;
+  src: url("Poppins/Poppins-SemiBold.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "Poppins";
+  font-style: normal;
+  src: url("Poppins/Poppins-Bold.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 800;
+  font-family: "Poppins";
+  font-style: normal;
+  src: url("Poppins/Poppins-ExtraBold.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 900;
+  font-family: "Poppins";
+  font-style: normal;
+  src: url("Poppins/Poppins-Black.woff2") format("woff2");
+  font-display: swap;
+}
+
+/* Italic */
+@font-face {
+  font-weight: 400;
+  font-family: "Poppins";
+  font-style: italic;
+  src: url("Poppins/Poppins-Italic.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: "Poppins";
+  font-style: italic;
+  src: url("Poppins/Poppins-MediumItalic.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 600;
+  font-family: "Poppins";
+  font-style: italic;
+  src: url("Poppins/Poppins-SemiBoldItalic.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "Poppins";
+  font-style: italic;
+  src: url("Poppins/Poppins-BoldItalic.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 800;
+  font-family: "Poppins";
+  font-style: italic;
+  src: url("Poppins/Poppins-ExtraBoldItalic.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 900;
+  font-family: "Poppins";
+  font-style: italic;
+  src: url("Poppins/Poppins-BlackItalic.woff2") format("woff2");
+  font-display: swap;
+}
